@@ -67,7 +67,7 @@ function revealGift(type) {
         `;
     } else if (type === 'photo') {
         title.innerText = "Meri Cute Billi ✨";
-        content.innerHTML = `<img src="Sister1.jpg" alt="Chidku" class="reveal-img">`;
+        content.innerHTML = `<img src="sister1.jpg" alt="Chidku" class="reveal-img">`;
     } else if (type === 'pets') {
         title.innerText = "Tera Doggo & Tu 🐶🐱";
         content.innerHTML = `
