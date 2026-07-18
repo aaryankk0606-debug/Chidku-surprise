@@ -1,5 +1,5 @@
 let enteredCode = "";
-const correctCode = "0000"; 
+const correctCode = "0408"; 
 let musicPlayed = false;
 
 // Create floating paws
